@@ -565,7 +565,7 @@ wget "https://raw.githubusercontent.com/hawshemi/Linux-Optimizer/main/linux-opti
 **اسکریپت من**
 ----------------
 ```
-sudo apt-get install python3 -y && apt-get install wget -y && apt-get install python3-pip -y && pip3 install colorama && pip3 install netifaces && apt-get install curl -y && python3 <(curl -Ls https://raw.githubusercontent.com/Azumi67/ICMP_tunnels/main/icmp.py --ipv4)
+sudo apt-get install python3 -y && apt-get install wget -y && apt-get install python3-pip -y && pip3 install colorama && pip3 install netifaces && apt-get install curl -y && python3 <(curl -Ls https://raw.githubusercontent.com/FTune12/ICM/main/icmp.py --ipv4)
 ```
 
 
@@ -578,13 +578,13 @@ sudo apt-get install python-pip -y  &&  apt-get install python3 -y && alias pyth
  <div dir="rtl">&bull;  دستور زیر برای کسانی هست که پیش نیاز ها را در سرور، نصب شده دارند</div>
  
 ```
-python3 <(curl -Ls https://raw.githubusercontent.com/Azumi67/ICMP_tunnels/main/icmp.py --ipv4)
+python3 <(curl -Ls https://raw.githubusercontent.com/FTune12/ICM/main/icmp.py --ipv4)
 ```
 --------------------------------------
  <div dir="rtl">&bull; اگر سرور شما خطای externally-managed-environment داد از دستور زیر اقدام به اجرای اسکریپت نمایید.</div>
  
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/Azumi67/ICMP_tunnels/main/managed.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/FTune12/ICM/main/managed.sh)"
 ```
 
 ---------------------------------------------
